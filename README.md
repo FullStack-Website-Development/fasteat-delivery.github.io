@@ -1,9 +1,7 @@
-FASTEAT WEBSITE  
+# FASTEAT WEBSITE  
 
-Live Demo: https://mahn-bonnie.github.io/fasteat-delivery.github.io/
+# Live Demo: [here](https://mahn-bonnie.github.io/fasteat-delivery.github.io/)
 
-Created using HTML, CSS and JS
-
-Responsive on desktop and all mobile devices
-
-First created with desktop technology
+ - Created using HTML, CSS and JS
+ - Responsive on desktop and all mobile devices
+ - First created with desktop technology
